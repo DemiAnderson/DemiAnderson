@@ -10,7 +10,7 @@ Currently I am studying Data Analysis in depth.
 
 In the future I plan to delve deeper into ML engineering.
 
-[![Telegram Badge](https://img.shields.io/badge/-rioran-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/rioran)](https://www.t.me/demi7)
+[![Telegram Badge](https://img.shields.io/badge/-demi7-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/demi7)](https://www.t.me/demi7)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DemiAnderson&count_private=true&show_icons=true&include_all_commits=true)
 
