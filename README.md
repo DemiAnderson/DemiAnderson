@@ -7,10 +7,13 @@ In the future I plan to delve deeper into ML engineering.
 
 **What business problems can I solve:**
 
-    * Increased revenue (e.g. personalized marketing via RFM / optimization of advertising campaigns and retention by cohort)
+    * Increased revenue (e.g. personalized marketing via RFM / 
+       optimization of advertising campaigns and retention by cohort)
     * Cost reduction (for example, optimization of the assortment matrix using ABC-XYZ analysis)
-    * Increasing retention and LTV (changing the monetization model, data-driven introduction of new features into the product, searching for weak points in the retention funnel)
-    * Make your business transparent and controllable (automated data collection and storage, ETL, check-up dashboards in Metabase / Power BI)
+    * Increasing retention and LTV (changing the monetization model, 
+       data-driven introduction of new features into the product, searching for weak points in the retention funnel)
+    * Make your business transparent and controllable (automated data collection and storage, 
+       ETL, check-up dashboards in Metabase / Power BI)
 
 [![Telegram Badge](https://img.shields.io/badge/-demi7-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/demi7)](https://www.t.me/demi7)
 
