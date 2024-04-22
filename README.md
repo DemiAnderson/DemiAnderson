@@ -8,7 +8,7 @@ Currently I am studying Data Analysis in depth.
 
 In the future I plan to delve deeper into ML engineering.
 
-**What business problems can I solve:**
+**What business problems I can solve:**
 
 * Increased revenue (e.g. personalized marketing via RFM / 
   optimization of advertising campaigns and retention by cohort)
