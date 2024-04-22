@@ -15,7 +15,7 @@ In the future I plan to delve deeper into ML engineering.
 * Make your business transparent and controllable (automated data collection and storage, 
   ETL, check-up dashboards in Metabase / Power BI)
 
-**Languages & Tools:
+**Languages & Tools:**
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -28,7 +28,7 @@ In the future I plan to delve deeper into ML engineering.
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-**Connect with me:
+**Connect with me:**
 
 [![Telegram Badge](https://img.shields.io/badge/-demi7-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/demi7)](https://www.t.me/demi7)
 [![LinkedIn Badge](https://img.shields.io/badge/-Dmitry%20Andreev-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/dmitriy-andreev-4a673298/)](https://www.linkedin.com/in/dmitriy-andreev-4a673298/)
