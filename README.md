@@ -2,8 +2,10 @@
 
 My name is Dmitry "Demi" Andreev.
 
-My main area of activity is Financial Management.\n
-Currently I am studying Data Analysis in depth.\n
+My main area of activity is Financial Management.
+
+Currently I am studying Data Analysis in depth.
+
 In the future I plan to delve deeper into ML engineering.
 
 **What business problems can I solve:**
