@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Greetings.
+### Greetings.
 
 My name is Andreev "Demi" Dmitry.
 My main area of activity is Financial Management.
