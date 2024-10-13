@@ -1,22 +1,16 @@
-### Greetings.
+### Greetings!
 
-My name is Dmitry "Demi" Andreev.
+I’m Dmitry "Demi" Andreev, a Financial Management expert with a growing focus on Data Analysis. Currently, I’m deepening my knowledge in this field, and in the near future, I plan to expand into Machine Learning Engineering to further enhance my skills.
 
-My main area of activity is Financial Management.
+## Key Business Solutions I Offer:
 
-Currently I am studying Data Analysis in depth.
-
-In the future I plan to delve deeper into ML engineering.
-
-**What business problems I can solve:**
-
-* Increased revenue (e.g. personalized marketing via RFM / 
-  optimization of advertising campaigns and retention by cohort)
-* Cost reduction (for example, optimization of the assortment matrix using ABC-XYZ analysis)
-* Increasing retention and LTV (changing the monetization model, 
-  data-driven introduction of new features into the product, searching for weak points in the retention funnel)
-* Make your business transparent and controllable (automated data collection and storage, 
-  ETL, check-up dashboards in Metabase / Power BI)
+  * Revenue Growth: Through personalized marketing strategies such as RFM analysis, optimizing advertising campaigns, and improving retention via cohort analysis.
+  
+  * Cost Optimization: For instance, by refining your product mix with ABC-XYZ analysis, leading to smarter inventory decisions and reduced expenses.
+  
+  * Retention and LTV Improvement: Enhancing customer lifetime value by adjusting monetization models, introducing data-driven product features, and identifying weak points in the retention funnel.
+  
+  * Business Transparency and Control: By automating data collection and storage, developing efficient ETL processes, and creating comprehensive dashboards using tools like Metabase and Power BI.
 
 **Languages & Tools:**
 
