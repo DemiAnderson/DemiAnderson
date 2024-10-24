@@ -1,6 +1,6 @@
 ### Greetings!
 
-I’m Dmitry "Demi" Andreev, a Financial Management expert with a growing focus on Data Analysis. Currently, I’m deepening my knowledge in this field, and in the near future, I plan to expand into Machine Learning Engineering to further enhance my skills.
+I’m Dmitry "Demi" Andreev, a Financial Analyst expert with a growing focus on Data Analysis. Currently, I’m deepening my knowledge in this field, and in the near future, I plan to expand into Machine Learning Engineering to further enhance my skills.
 
 ## Key Business Solutions I Offer:
 
